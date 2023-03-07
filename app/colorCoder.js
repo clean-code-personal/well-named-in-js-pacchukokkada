@@ -1,8 +1,8 @@
 //importing all the necessary modules
 const { getManual } = require('./colorCodeManual');
 const {MajorColorNames, MinorColorNames,ColorPair } = require('./colors');
-const {getColorFromPairNumber} = require('./getColor');
-const { getPairNumberFromColor } = require('./getPairNumber');
+const {getColorFromPairNumber} = require('./getColorPair');
+const { getPairNumberFromColor } = require('./getColorCode');
 
 	 
 	 function test(){

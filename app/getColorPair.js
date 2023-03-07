@@ -1,4 +1,4 @@
-//modules to get the color names using the color code
+//module to get the color names using the color code
 
 const {MajorColorNames, MinorColorNames,ColorPair } = require('./colors');
 
